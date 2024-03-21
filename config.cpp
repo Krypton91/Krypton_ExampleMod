@@ -28,7 +28,7 @@ class CfgMods
 		credits = "Krypton91";
 		author = "Krypton91";
 		authorID = "76561198796326626";
-		version = "2.0";
+		version = "1.0";
 		extra = 0;
 		type = "mod";
 		dependencies[] = {"Mission", "World", "Game"};
