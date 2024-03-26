@@ -1,5 +1,11 @@
 {
     "WorkshopItemId": 3194775300,
     "WorkshopItemName": "Git2Steam",
-    "WorkshopChangelog": ""
+    "FilePathToWorkshopDesc": "description.txt",
+    "FilePathToWorkshopPreviewImage": "PreviewWidget.jpg",
+    "ExcludeItemsFromWorkshopUpload": [
+      "txt*",
+      "jpg*",
+      "json*"
+    ]
 }
