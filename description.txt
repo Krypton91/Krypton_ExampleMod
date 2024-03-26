@@ -1,6 +1,6 @@
 [h1]Sample mod[/h1]
 
 [b]Support[/b]
-This is a sample description.
+This is a sample description
 
 [code]Test Code field.[/code]
